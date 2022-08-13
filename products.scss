@@ -205,15 +205,15 @@ img {
     background-color: var(--first-product-bcg);
     &::before {
       @media screen and (max-width: 767px) {
-        background-image: url(./images/products1.png);
+        background-image: url(../images/products1.png);
       }
 
       @media screen and (min-width: 768px) {
-        background-image: url(./images/products1-tablet.png);
+        background-image: url(../images/products1-tablet.png);
       }
 
       @media screen and (min-width: 1200px) {
-        background-image: url(./images/products1-desktop.png);
+        background-image: url(../images/products1-desktop.png);
       }
     }
   }
@@ -222,15 +222,15 @@ img {
     background-color: var(--second-product-bcg);
     &::before {
       @media screen and (max-width: 767px) {
-        background-image: url(./images/products2.png);
+        background-image: url(../images/products2.png);
       }
 
       @media screen and (min-width: 768px) {
-        background-image: url(./images/products2-tablet.png);
+        background-image: url(../images/products2-tablet.png);
       }
 
       @media screen and (min-width: 1200px) {
-        background-image: url(./images/products2-desktop.png);
+        background-image: url(../images/products2-desktop.png);
       }
     }
   }
@@ -239,15 +239,15 @@ img {
     background-color: var(--third-product-bcg);
     &::before {
       @media screen and (max-width: 767px) {
-        background-image: url(./images/products3.png);
+        background-image: url(../images/products3.png);
       }
 
       @media screen and (min-width: 768px) {
-        background-image: url(./images/products3-tablet.png);
+        background-image: url(../images/products3-tablet.png);
       }
 
       @media screen and (min-width: 1200px) {
-        background-image: url(./images/products3-desktop.png);
+        background-image: url(../images/products3-desktop.png);
       }
     }
   }
